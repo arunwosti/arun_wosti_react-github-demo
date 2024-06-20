@@ -9,7 +9,8 @@ function App() {
         <a
           className="App-link"
         >
-          Arun Wosti C0896115. Assignment related to the ci workflow
+          Arun Wosti C0896115. Assignment related to the ci workflow.
+          Just adding random text.
         </a>
       </header>
     </div>
